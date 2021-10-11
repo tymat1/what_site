@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.img1{
+	position: absolute;
+}
+.click {
+  background-image: url("click.png");
+  position: absolute;
+  left: 48px;
+  top: 187px;
+  width: 108px;
+  height: 94px;
+  z-index: 2;
+}

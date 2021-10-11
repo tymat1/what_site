@@ -1,1 +1,0 @@
-# tymat_proj2
